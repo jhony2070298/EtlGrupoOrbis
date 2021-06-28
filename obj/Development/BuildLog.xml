@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Etl_Tdm_GrupoOrbis</Name>
-    <LastWriteTime>2021-06-25T20:35:05.0356981Z</LastWriteTime>
+    <LastWriteTime>2021-06-28T14:12:33.900209Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>SAVE_LAND_EXPORT_DATA.dtsx</Name>
-      <LastWriteTime>2021-06-25T21:45:14.3831316Z</LastWriteTime>
+      <LastWriteTime>2021-06-28T14:12:33.8772684Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
